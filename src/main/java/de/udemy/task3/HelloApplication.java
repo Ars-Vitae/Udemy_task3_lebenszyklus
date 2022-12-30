@@ -17,6 +17,9 @@ import java.io.IOException;
 //start
 //stop
 
+/**
+ * Dies ist dafür gedacht den lebenszyklus abzubilden mit init und stop methoden
+ */
 
 
 public class HelloApplication extends Application {
